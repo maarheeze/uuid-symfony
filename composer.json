@@ -1,5 +1,6 @@
 {
     "name": "maarheeze/uuid-symfony",
+    "description": "symfony integration for a simple uuid value object",
     "type": "library",
     "license": "MIT",
     "config": {
